@@ -7,6 +7,6 @@
 [![docs](https://badge.fury.io/py/phaseflow.svg)](https://badge.fury.io/py/phaseflow)
 
 
-Shake phase dection and association in Python.
+Shake phase detecion and association in Python.
 
 ## License

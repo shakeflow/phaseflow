@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "phaseflow"
 version = "0.0.1"
-description = "Shake phase dection and association in Python"
+description = "Shake phase detection and association in Python"
 authors = ["OUCyf <oucyinfu@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
